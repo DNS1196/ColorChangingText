@@ -1,0 +1,16 @@
+h1 {
+    font-size: 200px;
+    font-family: Montserrat;
+}
+
+.letter {
+    transition: color 1000ms;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
